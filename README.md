@@ -1,1 +1,3 @@
-# Mistk-
+# Mistkâ
+
+Bot by BlaSfaiMe
